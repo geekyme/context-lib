@@ -7,7 +7,7 @@ This is a minimal example library to show how to use context in a library.
 Install and link
 
 ```
-git clone git@github.axa.com:shawn-limqc/context-lib.git
+git clone https://github.com/geekyme/context-lib.git
 cd /path/to/context-lib
 npm install
 npm link
